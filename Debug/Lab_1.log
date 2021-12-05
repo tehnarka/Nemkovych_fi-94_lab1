@@ -1,0 +1,6 @@
+﻿  Lab_1.cpp
+C:\Users\User\source\repos\Lab_1\main.h(208,47): warning C4244: аргумент: преобразование "int64_t" в "const unsigned int", возможна потеря данных
+C:\Users\User\source\repos\Lab_1\main.h(208,62): warning C4244: аргумент: преобразование "int64_t" в "const unsigned int", возможна потеря данных
+C:\Users\User\source\repos\Lab_1\main.h(219,23): warning C4244: аргумент: преобразование "int64_t" в "const unsigned int", возможна потеря данных
+C:\Users\User\source\repos\Lab_1\main.h(219,37): warning C4244: аргумент: преобразование "int64_t" в "const unsigned int", возможна потеря данных
+  Lab_1.vcxproj -> C:\Users\User\source\repos\Lab_1\Debug\Lab_1.exe
